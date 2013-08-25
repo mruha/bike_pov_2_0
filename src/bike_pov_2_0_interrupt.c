@@ -1,5 +1,5 @@
 /*
- * bike_pov.c
+ * bike_pov_2_0_interrupt.c
  *
  * Created: 8/24/2013 5:47 PM
  *  Author: mruha

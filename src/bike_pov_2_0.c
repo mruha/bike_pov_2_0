@@ -1,5 +1,5 @@
 /*
- * bike_pov.c
+ * bike_pov_2_0.c
  *
  * Created: 8/24/2013 5:29 PM
  *  Author: mruha
@@ -9,6 +9,8 @@
 
 #include <avr/io.h>
 #include <avr/interrupt.h>
+#include "../hdr/bike_pov_2_0.h"
+#include "../hdr/bike_pov_2_0_init.h"
 
 /****************************************************************************************************************
  *function:

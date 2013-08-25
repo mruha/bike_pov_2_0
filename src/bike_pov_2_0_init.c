@@ -1,5 +1,5 @@
 /*
- * bike_pov.c
+ * bike_pov_2_0_init.c
  *
  * Created: 8/24/2013 5:45 PM
  *  Author: mruha
@@ -83,7 +83,7 @@ void bike_pov_2_0_init_hw()
  */
 void bike_pov_2_0_init_data()
 {
-
+	/* initing data structures */
 }
 
 #undef _BIKE_POV_2_0_INIT_C_
